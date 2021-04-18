@@ -2,5 +2,5 @@
 
 
 # Team
-# Sindhu Sunanda
-# Vanitha L T
+Sindhu Sunanda
+Vanitha L T
